@@ -16,6 +16,8 @@ h1, h2{
 	font-family: 'Playfair Display', serif;
 }
 
+/* header styles */
+
 header h1{
 	color: white;
 	font-size: 70px;
@@ -28,7 +30,7 @@ header img{
 }
 
 main{
-	max-width: 800px;
+	max-width: 1200px;
 	margin: 0 auto;
 	padding: 20px;
 }
